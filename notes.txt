@@ -1,0 +1,14 @@
+websockets is a tech in web where if anything updates/changes on either side (Fe or Be) the data is shared on both ends instantly to maintain perfect sync
+
+Note :-> socketio is used to give real time expirence to user
+socketio = socket input output
+
+emit = send
+socket = one
+io = all
+brodcast = except yourself(one) emit to all
+on = recived event
+
+socketio configuration with express generator
+
+hamesh front end se ek event emit hoga jiska ek corresponding "on" banega backend par aur fir backend se ek event emit hoga jiska ek corresponding "on" banega frontend pe. 
